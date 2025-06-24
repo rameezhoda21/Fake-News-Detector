@@ -14,7 +14,7 @@ It uses:
 - ✅ Hyperparameter tuning with cross-validation  
 - ✅ Command-line interface for real-time predictions  
 - ✅ (Optional) Learning-curve & heatmap visualizations  
-- ✅ (Optional) Streamlit web UI  
+
 
 ---
 
